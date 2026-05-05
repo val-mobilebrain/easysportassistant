@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Easy Sport Assistant</string>
+    <string name="app_subtitle">Sports Bet Utility App</string>
+
+    <string name="tab_converter">Odds Converter</string>
+    <string name="tab_calculator">Bet Calculator</string>
+    <string name="tab_parlay">Parlay Builder</string>
+    <string name="tab_tracker">Profit Tracker</string>
+
+    <string name="decimal_odds">Decimal Odds</string>
+    <string name="american_odds">American Odds</string>
+    <string name="fractional_odds">Fractional Odds</string>
+    <string name="implied_probability">Implied Probability</string>
+    <string name="probability">Probability:</string>
+    <string name="hint_decimal">e.g. 2.50</string>
+    <string name="hint_american">e.g. +150 or -200</string>
+    <string name="hint_fractional">e.g. 3/2</string>
+
+    <string name="stake">Stake ($)</string>
+    <string name="hint_stake">Enter stake amount</string>
+    <string name="odds_format">Odds Format</string>
+    <string name="odds">Odds</string>
+    <string name="hint_odds">Enter odds</string>
+    <string name="payout">Payout:</string>
+    <string name="profit">Profit:</string>
+    <string name="bet_results">Bet Results</string>
+
+    <string name="add_selection">Add Selection</string>
+    <string name="selection_name">Selection Name</string>
+    <string name="hint_selection_name">e.g. Team A to Win</string>
+    <string name="parlay_total">Parlay Total</string>
+    <string name="combined_odds">Combined Odds:</string>
+    <string name="total_payout">Total Payout:</string>
+    <string name="total_profit">Total Profit:</string>
+    <string name="no_selections">No selections added yet</string>
+    <string name="remove">Remove</string>
+
+    <string name="add_new_bet">Add New Bet</string>
+    <string name="add_bet">Add Bet</string>
+    <string name="bet_name">Bet Name</string>
+    <string name="hint_bet_name">e.g. Lakers vs Warriors</string>
+    <string name="date">Date</string>
+    <string name="result">Result</string>
+    <string name="total_bets">Total Bets</string>
+    <string name="wins_losses">Wins / Losses</string>
+    <string name="net_profit">Net Profit</string>
+    <string name="roi">ROI</string>
+    <string name="bet_history">Bet History</string>
+    <string name="no_bets">No bets tracked yet</string>
+    <string name="delete">Delete</string>
+    <string name="profit_tracker">Profit Tracker</string>
+
+    <string-array name="odds_formats">
+        <item>Decimal</item>
+        <item>American</item>
+        <item>Fractional</item>
+    </string-array>
+
+    <string-array name="bet_results">
+        <item>Pending</item>
+        <item>Win</item>
+        <item>Loss</item>
+    </string-array>
+</resources>

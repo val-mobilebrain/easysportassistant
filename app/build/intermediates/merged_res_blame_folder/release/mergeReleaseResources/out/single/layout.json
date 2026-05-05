@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "com.easysport.assistantappnewmb.app-mergeReleaseResources-41:/layout/fragment_profit_tracker.xml",
+        "source": "com.easysport.assistantappnewmb.app-main-43:/layout/fragment_profit_tracker.xml"
+    },
+    {
+        "merged": "com.easysport.assistantappnewmb.app-mergeReleaseResources-41:/layout/fragment_odds_converter.xml",
+        "source": "com.easysport.assistantappnewmb.app-main-43:/layout/fragment_odds_converter.xml"
+    },
+    {
+        "merged": "com.easysport.assistantappnewmb.app-mergeReleaseResources-41:/layout/item_parlay_selection.xml",
+        "source": "com.easysport.assistantappnewmb.app-main-43:/layout/item_parlay_selection.xml"
+    },
+    {
+        "merged": "com.easysport.assistantappnewmb.app-mergeReleaseResources-41:/layout/fragment_parlay_builder.xml",
+        "source": "com.easysport.assistantappnewmb.app-main-43:/layout/fragment_parlay_builder.xml"
+    },
+    {
+        "merged": "com.easysport.assistantappnewmb.app-mergeReleaseResources-41:/layout/activity_main.xml",
+        "source": "com.easysport.assistantappnewmb.app-main-43:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.easysport.assistantappnewmb.app-mergeReleaseResources-41:/layout/activity_splash.xml",
+        "source": "com.easysport.assistantappnewmb.app-main-43:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.easysport.assistantappnewmb.app-mergeReleaseResources-41:/layout/item_bet_history.xml",
+        "source": "com.easysport.assistantappnewmb.app-main-43:/layout/item_bet_history.xml"
+    },
+    {
+        "merged": "com.easysport.assistantappnewmb.app-mergeReleaseResources-41:/layout/fragment_bet_calculator.xml",
+        "source": "com.easysport.assistantappnewmb.app-main-43:/layout/fragment_bet_calculator.xml"
+    },
+    {
+        "merged": "com.easysport.assistantappnewmb.app-mergeReleaseResources-41:/layout/activity_privacy_policy.xml",
+        "source": "com.easysport.assistantappnewmb.app-main-43:/layout/activity_privacy_policy.xml"
+    }
+]

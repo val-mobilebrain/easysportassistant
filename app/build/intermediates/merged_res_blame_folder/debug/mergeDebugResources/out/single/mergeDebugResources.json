@@ -1,0 +1,94 @@
+[
+    {
+        "merged": "com.easysport.assistantappnewmb.app-debug-42:/layout_activity_main.xml.flat",
+        "source": "com.easysport.assistantappnewmb.app-main-44:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.easysport.assistantappnewmb.app-debug-42:/drawable_btn_primary.xml.flat",
+        "source": "com.easysport.assistantappnewmb.app-main-44:/drawable/btn_primary.xml"
+    },
+    {
+        "merged": "com.easysport.assistantappnewmb.app-debug-42:/drawable_spinner_background.xml.flat",
+        "source": "com.easysport.assistantappnewmb.app-main-44:/drawable/spinner_background.xml"
+    },
+    {
+        "merged": "com.easysport.assistantappnewmb.app-debug-42:/drawable_rounded_card_bg.xml.flat",
+        "source": "com.easysport.assistantappnewmb.app-main-44:/drawable/rounded_card_bg.xml"
+    },
+    {
+        "merged": "com.easysport.assistantappnewmb.app-debug-42:/layout_activity_privacy_policy.xml.flat",
+        "source": "com.easysport.assistantappnewmb.app-main-44:/layout/activity_privacy_policy.xml"
+    },
+    {
+        "merged": "com.easysport.assistantappnewmb.app-debug-42:/drawable_input_background.xml.flat",
+        "source": "com.easysport.assistantappnewmb.app-main-44:/drawable/input_background.xml"
+    },
+    {
+        "merged": "com.easysport.assistantappnewmb.app-debug-42:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.easysport.assistantappnewmb.app-main-44:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.easysport.assistantappnewmb.app-debug-42:/layout_fragment_odds_converter.xml.flat",
+        "source": "com.easysport.assistantappnewmb.app-main-44:/layout/fragment_odds_converter.xml"
+    },
+    {
+        "merged": "com.easysport.assistantappnewmb.app-debug-42:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.easysport.assistantappnewmb.app-main-44:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.easysport.assistantappnewmb.app-debug-42:/drawable_btn_danger.xml.flat",
+        "source": "com.easysport.assistantappnewmb.app-main-44:/drawable/btn_danger.xml"
+    },
+    {
+        "merged": "com.easysport.assistantappnewmb.app-debug-42:/layout_fragment_bet_calculator.xml.flat",
+        "source": "com.easysport.assistantappnewmb.app-main-44:/layout/fragment_bet_calculator.xml"
+    },
+    {
+        "merged": "com.easysport.assistantappnewmb.app-debug-42:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.easysport.assistantappnewmb.app-main-44:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.easysport.assistantappnewmb.app-debug-42:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.easysport.assistantappnewmb.app-main-44:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.easysport.assistantappnewmb.app-debug-42:/layout_item_parlay_selection.xml.flat",
+        "source": "com.easysport.assistantappnewmb.app-main-44:/layout/item_parlay_selection.xml"
+    },
+    {
+        "merged": "com.easysport.assistantappnewmb.app-debug-42:/drawable_btn_outline.xml.flat",
+        "source": "com.easysport.assistantappnewmb.app-main-44:/drawable/btn_outline.xml"
+    },
+    {
+        "merged": "com.easysport.assistantappnewmb.app-debug-42:/layout_fragment_profit_tracker.xml.flat",
+        "source": "com.easysport.assistantappnewmb.app-main-44:/layout/fragment_profit_tracker.xml"
+    },
+    {
+        "merged": "com.easysport.assistantappnewmb.app-debug-42:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.easysport.assistantappnewmb.app-main-44:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.easysport.assistantappnewmb.app-debug-42:/drawable_gradient_header.xml.flat",
+        "source": "com.easysport.assistantappnewmb.app-main-44:/drawable/gradient_header.xml"
+    },
+    {
+        "merged": "com.easysport.assistantappnewmb.app-debug-42:/layout_fragment_parlay_builder.xml.flat",
+        "source": "com.easysport.assistantappnewmb.app-main-44:/layout/fragment_parlay_builder.xml"
+    },
+    {
+        "merged": "com.easysport.assistantappnewmb.app-debug-42:/layout_activity_splash.xml.flat",
+        "source": "com.easysport.assistantappnewmb.app-main-44:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.easysport.assistantappnewmb.app-debug-42:/layout_item_bet_history.xml.flat",
+        "source": "com.easysport.assistantappnewmb.app-main-44:/layout/item_bet_history.xml"
+    },
+    {
+        "merged": "com.easysport.assistantappnewmb.app-debug-42:/drawable_status_badge.xml.flat",
+        "source": "com.easysport.assistantappnewmb.app-main-44:/drawable/status_badge.xml"
+    },
+    {
+        "merged": "com.easysport.assistantappnewmb.app-debug-42:/drawable_card_gradient.xml.flat",
+        "source": "com.easysport.assistantappnewmb.app-main-44:/drawable/card_gradient.xml"
+    }
+]
